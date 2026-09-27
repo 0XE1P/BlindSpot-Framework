@@ -72,13 +72,13 @@ modified, and improved.
 - ✅ **Trend Micro / Sophos / Malwarebytes**
 - ✅ **Avira, F-Secure, Emsisoft, eScan, GData**
 - ✅ **67 out of 75 AVs** do not detect the packed `rev.exe`
-- 
+  
 ### What still detects
 
-⚠️ **Microsoft Defender** (`Trojan:Win32/Wacatac`) — ML detection, signature only
-⚠️ **CrowdStrike Falcon** (`Win/malicious_confidence_70-90%`) — behavior, direct syscalls
-⚠️ **Symantec** (`ML.Attribute.HighConfidence`) — ML, signature only
-⚠️ **Elastic** (`Malicious (high Confidence)`) — behavior
+- ⚠️ **Microsoft Defender** (`Trojan:Win32/Wacatac`) — ML detection, signature only
+- ⚠️ **CrowdStrike Falcon** (`Win/malicious_confidence_70-90%`) — behavior, direct syscalls
+- ⚠️ **Symantec** (`ML.Attribute.HighConfidence`) — ML, signature only
+- ⚠️ **Elastic** (`Malicious (high Confidence)`) — behavior
 
 **These are enterprise/ML detections.** They can only be bypassed with a
 **code signing certificate** ($200-500/year) or **direct syscalls** (weeks of work).
