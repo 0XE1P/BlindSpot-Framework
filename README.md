@@ -520,7 +520,7 @@ More details: [DISCLAIMER.md](DISCLAIMER.md).
 
 <div align="center">
 
-**BlindSpot** — built from scratch. In 2 days. At 16 years old.
+**BlindSpot**
 
 *If this project helped you — leave a ⭐ on GitHub.*
 
