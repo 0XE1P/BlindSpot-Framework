@@ -64,15 +64,15 @@ modified, and improved.
 
 ### What it bypasses
 
-✅ **Kaspersky** (top-1 in Russia/Europe)
-✅ **ESET** (top-3 worldwide)
-✅ **BitDefender** (top-1 by detection rate)
-✅ **Dr.Web**
-✅ **Avast / AVG / Avira**
-✅ **Trend Micro / Sophos / Malwarebytes**
-✅ **Avira, F-Secure, Emsisoft, eScan, GData**
-✅ **67 out of 75 AVs** do not detect the packed `rev.exe`
-
+- ✅ **Kaspersky** (top-1 in Russia/Europe)
+- ✅ **ESET** (top-3 worldwide)
+- ✅ **BitDefender** (top-1 by detection rate)
+- ✅ **Dr.Web**
+- ✅ **Avast / AVG / Avira**
+- ✅ **Trend Micro / Sophos / Malwarebytes**
+- ✅ **Avira, F-Secure, Emsisoft, eScan, GData**
+- ✅ **67 out of 75 AVs** do not detect the packed `rev.exe`
+- 
 ### What still detects
 
 ⚠️ **Microsoft Defender** (`Trojan:Win32/Wacatac`) — ML detection, signature only
