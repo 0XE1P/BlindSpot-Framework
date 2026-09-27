@@ -45,6 +45,13 @@ modified, and improved.
 
 ---
 
+## 📸 Screenshots
+
+### Main Interface
+<img src="docs/screenshot.png">
+
+---
+
 ## 🎯 Results
 
 ### Summary
