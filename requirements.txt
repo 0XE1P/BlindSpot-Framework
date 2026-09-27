@@ -1,0 +1,15 @@
+# BlindSpot — Python dependencies
+
+# GUI
+customtkinter>=5.2.0
+
+# VirusTotal API
+requests>=2.31.0
+urllib3>=2.0.0
+certifi>=2023.7.22
+
+# PE patching
+pefile>=2023.2.7
+
+# Сборка в .exe
+pyinstaller>=6.0.0
